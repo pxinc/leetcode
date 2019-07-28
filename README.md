@@ -1,3 +1,6 @@
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/count-binary-substrings
+
 1. Install
 
   ```
